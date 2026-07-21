@@ -156,9 +156,11 @@ Common options:
 If you find our work inspiring or use our codebase in your research, please cite:
 
 ```bibtex
-@article{yao2025omnistvg,
+@inproceedings{
+  yao2026omnistvg,
   title={OmniSTVG: Toward Spatio-Temporal Omni-Object Video Grounding},
-  author={Yao, Jiali and Deng, Xinran and Gu, Xin and Dai, Mengrui and Fan, Bing and Zhang, Zhipeng and Huang, Yan and Fan, Heng and Zhang, Libo},
-  journal={arXiv preprint arXiv:2503.10500},
-  year={2025}
+  author={Jiali Yao and Xin Gu and Xinran Deng and Mengrui Dai and Bing Fan and Zhipeng Zhang and Yan Huang and Heng Fan and Libo Zhang},
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026},
+  url={https://openreview.net/forum?id=azcQJtcYTE}
 }
